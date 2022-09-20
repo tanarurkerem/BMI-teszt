@@ -7,6 +7,7 @@
 3. A Settings > Pages oldalon a Source értékét állítsd gh-pages-re és mentsd el (Save)
 4. Clone-ozd a saját(!) repodat a VSCode-ba
 5. Írd át a Readme.md elején a [Név] részt a saját nevedre, majd commitolj és pusholj.
+6. Az index.html fájlba készítsd el a munkádat! Az index.html fájlt tetszőlegesen átírhatod.
 
 ## Hogyan dolgozz?
 
